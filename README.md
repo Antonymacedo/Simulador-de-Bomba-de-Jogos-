@@ -600,3 +600,5 @@ void limparLCD() {
 https://www.tinkercad.com/things/c0tn1UnBdFd-simulador-de-bomba
 
 # Resultado Final❗
+
+https://github.com/user-attachments/assets/f94ba12f-550b-4eb4-abf0-e6f4b362c188
